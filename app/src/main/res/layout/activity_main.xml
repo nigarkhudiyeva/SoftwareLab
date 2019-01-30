@@ -10,8 +10,8 @@
         android:id="@+id/button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Find me"
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"
-        android:onClick="openGPS"/>
+        android:onClick="openGPS"
+        android:text="GO" />
 </RelativeLayout>
